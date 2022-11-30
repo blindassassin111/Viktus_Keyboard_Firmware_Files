@@ -1,4 +1,4 @@
 Firmware files for the SPmini keyboards.
 
-To change, you must program each half with the same firmware.
-The right half has an internal USB to use for programming, once this is programmed you can plug the board halves in like normal and modify firmware in VIA or Vial if desired.
+To change firmware, you must program each half with the same firmware.
+The right half has an internal USB to use for programming, once each half is programmed you can plug the board halves in like normal and modify firmware in VIA or Vial if desired.
