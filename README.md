@@ -1,2 +1,2 @@
 # Viktus_Keyboard_Firmware_Files
-Firmware for all keyboards
+Firmware for all Viktus and BlindAssassin111 keyboards
