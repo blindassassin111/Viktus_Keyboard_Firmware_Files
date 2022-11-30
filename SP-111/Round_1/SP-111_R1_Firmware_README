@@ -1,0 +1,3 @@
+Firmware files for the SP-111 round 1 keyboards.
+
+Only need to program the left half of the board as the right half is a "dumb" controller and doesn't need programming.
