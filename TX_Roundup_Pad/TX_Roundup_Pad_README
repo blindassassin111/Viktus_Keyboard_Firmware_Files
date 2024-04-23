@@ -3,3 +3,8 @@ Firmware files for the TX Roundup Pad meetup badge for April 2024.
 Parts list:
 - 1x Pro micro (5v variant)
 - 21x 1N4148 Diodes (through-hole variants only)
+
+Build Instructions:
+1) Pro micro should be soldered on the top side, with the USB facing up. This matches the silkscreened image of the pro micro on the PCB badge.
+    - Note that you can mount the pro micro on the bottom if you desire (USB still facing up, so it would be sandwiched between the Pro micro's PCB and the badge's PCB), but you will need to find a way to raise up the pad high enough so that it doesn't wobble around.
+2) Diodes are inserted from the top, with the black line on the left side. This matches the silkscreened lines on the PCB badge.
