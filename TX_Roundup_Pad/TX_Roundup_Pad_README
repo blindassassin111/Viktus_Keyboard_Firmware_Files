@@ -1,0 +1,5 @@
+Firmware files for the TX Roundup Pad meetup badge for April 2024.
+
+Parts list:
+- 1x Pro micro (5v variant)
+- 21x 1N4148 Diodes (through-hole variants only)
